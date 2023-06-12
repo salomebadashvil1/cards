@@ -1,0 +1,25 @@
+body{
+    background-color: #D0C5B1;
+}
+
+.box {
+    width: 380px;
+    height: 323px;
+    background-color: #B3A19D;
+    color: #354259;
+}
+
+.text{
+    text-align:left;
+}
+.p{
+    margin-left: 64px;
+
+}
+button{
+    width: 150px;
+    height: 35px;
+    background-color: #ECE5C7;
+    border: #ECE5C7;
+}
+  
